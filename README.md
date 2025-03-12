@@ -73,7 +73,3 @@ This project focuses on detecting phishing websites using **Machine learning mod
 - The **Streamlit web app** provides an easy-to-use interface for real-time phishing detection.
 
 
----
-
-📩 **For contributions or inquiries, feel free to connect with us!**
-
