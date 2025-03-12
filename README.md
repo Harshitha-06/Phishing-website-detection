@@ -7,8 +7,8 @@ This project focuses on detecting phishing websites using **Machine learning mod
 ## 🚀 Project Workflow
 
 1. **Dataset**
-- File: `urldata.csv`
-- Contains **10,000 URLs** (5,000 legitimate, 5,000 phishing)
+   - File: `urldata.csv`
+   - Contains **10,000 URLs** (5,000 legitimate, 5,000 phishing)
 2. **Feature Extraction**:
    - Extracted **17 key features**, categorized into:
      - **Address Bar Features** (IP presence, URL length, HTTPS, etc.)
