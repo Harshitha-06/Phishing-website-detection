@@ -64,6 +64,9 @@ This project focuses on detecting phishing websites using **Machine learning mod
 | XGBoost               | 0.867         | 0.863        |
 | SVM                   | 0.802         | 0.800        |
 
+![Phishing Detected Example](phishing.png)
+
+![Legitimate URL Example](phishing2.png)
 
 ## 🔍 Key Findings
 
