@@ -64,9 +64,17 @@ This project focuses on detecting phishing websites using **Machine learning mod
 | XGBoost               | 0.867         | 0.863        |
 | SVM                   | 0.802         | 0.800        |
 
+
+### Output:
+
 ![Phishing Detected Example](phishing.png)
+- **Detected URL:** `http://data.alexa.com/data?cli=10&dat=s&url=`  
+- **Prediction:** 🚨 Phishing Website (Not Safe to Proceed)  
 
 ![Legitimate URL Example](phishing2.png)
+- **Detected URL:** `https://www.google.com`  
+- **Prediction:** ✅ Legitimate Website (Safe to Proceed)
+
 
 ## 🔍 Key Findings
 
